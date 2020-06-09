@@ -1,5 +1,5 @@
 # berka-financial-data-set
-PKDD'99 Discovery Challenge financial dataset analysis
+PKDD'99 Discovery Challenge financial dataset analysis - A prediction model for loan amounts
 
 ## Introduction
 This project has a prediction linear model in order to find the loan amount provided by the bank to a client considering several parameters:
