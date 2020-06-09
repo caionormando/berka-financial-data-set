@@ -1,4 +1,4 @@
-# berka-financial-data-set
+# Berka Financial - Prediction model for loan amount
 PKDD'99 Discovery Challenge financial dataset analysis - A prediction model for loan amounts
 
 ## Introduction
