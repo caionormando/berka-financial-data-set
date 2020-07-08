@@ -22,4 +22,4 @@ The achieved model results are the following:
 ![predictionmodel](https://i.imgur.com/uMPhLdE.png)
 
 ## Technologies and considerations
-This project was developed in R with the RStudio Cloud. All the plots can be found in the "plots" folder.
+This project was developed in R with RStudio Cloud. All the plots can be found in the "plots" folder.
